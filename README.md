@@ -27,3 +27,6 @@ cmake ../DCRML
 make
 ./DCRML
 ```
+
+# video demo
+[Youtube demo](https://www.youtube.com/watch?v=DUsr0B203ZQ)
