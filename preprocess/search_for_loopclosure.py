@@ -298,10 +298,14 @@ def searchForLoopClosure(location:str):
 
 
 if __name__=="__main__":
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-n", "--nuscenes_path", help="path to your nuscenes dataset", type=str)
+    args = parser.parse_args()
 
     version = 'v1.0-trainval'
-    path = "PATH_TO_NUSCENES"
-    val = Generic(version, path)
+    dataset_path = args.nuscenes_path
+    val = Generic(version, dataset_path)
     location_list = ['singapore-hollandvillage',
                      'singapore-queenstown',
                      'singapore-onenorth',

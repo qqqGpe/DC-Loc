@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="teaser_cpp_ply" targetName="toronot_lib" />
+      <config projectName="teaser_cpp_ply" targetName="utils" />
+      <config projectName="teaser_cpp_ply" targetName="closure_match" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e67f70b6-2cea-4517-96c0-5d4701a29d6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1uDSsjbNqJfvR08a7z0fgfEZyy6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.toronot_lib">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration name="DCRML" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="teaser_cpp_ply" TARGET_NAME="DCRML" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="teaser_cpp_ply" RUN_TARGET_NAME="DCRML">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toronot_lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="teaser_cpp_ply" TARGET_NAME="toronot_lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="utils" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="teaser_cpp_ply" TARGET_NAME="utils" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.DCRML" />
+      <item itemvalue="CMake Application.toronot_lib" />
+      <item itemvalue="CMake Application.utils" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e67f70b6-2cea-4517-96c0-5d4701a29d6c" name="Default Changelist" comment="" />
+      <created>1624198874470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624198874470</updated>
+      <workItem from="1624198875869" duration="395000" />
+      <workItem from="1624199383196" duration="448000" />
+      <workItem from="1624242496694" duration="16000" />
+      <workItem from="1624242669066" duration="22000" />
+      <workItem from="1624242713575" duration="782000" />
+      <workItem from="1624245824445" duration="2157000" />
+      <workItem from="1624324987541" duration="2750000" />
+      <workItem from="1624350475262" duration="3051000" />
+      <workItem from="1624354107234" duration="5669000" />
+      <workItem from="1624363700192" duration="7783000" />
+      <workItem from="1624374228851" duration="689000" />
+      <workItem from="1624432491022" duration="7974000" />
+      <workItem from="1624458079180" duration="1737000" />
+      <workItem from="1624537656930" duration="6320000" />
+      <workItem from="1624618553545" duration="10847000" />
+      <workItem from="1624632410785" duration="28000" />
+      <workItem from="1624792760669" duration="600000" />
+      <workItem from="1624844487236" duration="29000" />
+      <workItem from="1624870664635" duration="3039000" />
+      <workItem from="1624932090964" duration="886000" />
+      <workItem from="1624933152777" duration="537000" />
+      <workItem from="1624971902614" duration="5740000" />
+      <workItem from="1625017454719" duration="8558000" />
+      <workItem from="1625053722325" duration="1265000" />
+      <workItem from="1625061596940" duration="2919000" />
+      <workItem from="1625103394618" duration="2700000" />
+      <workItem from="1625311532130" duration="17000" />
+      <workItem from="1625560687343" duration="1526000" />
+      <workItem from="1625576133590" duration="4000" />
+      <workItem from="1625628500112" duration="85000" />
+      <workItem from="1625641106057" duration="10146000" />
+      <workItem from="1625664227566" duration="4968000" />
+      <workItem from="1626071941923" duration="2400000" />
+      <workItem from="1626080143854" duration="11407000" />
+      <workItem from="1626147251317" duration="13335000" />
+      <workItem from="1627543202753" duration="53000" />
+      <workItem from="1627544208189" duration="16430000" />
+      <workItem from="1627570780373" duration="3000" />
+      <workItem from="1627608171792" duration="12710000" />
+      <workItem from="1627722566790" duration="7706000" />
+      <workItem from="1627955645008" duration="373000" />
+      <workItem from="1627959510570" duration="45000" />
+      <workItem from="1627959588210" duration="15000" />
+      <workItem from="1628134180251" duration="1577000" />
+      <workItem from="1628147164028" duration="941000" />
+      <workItem from="1628150196329" duration="3378000" />
+      <workItem from="1628168570735" duration="2223000" />
+      <workItem from="1628216437993" duration="1735000" />
+      <workItem from="1628232836492" duration="15000" />
+      <workItem from="1628768605044" duration="37000" />
+      <workItem from="1628772246044" duration="43000" />
+      <workItem from="1628824269888" duration="2410000" />
+      <workItem from="1628947400495" duration="444000" />
+      <workItem from="1629031543222" duration="4176000" />
+      <workItem from="1629085252169" duration="3297000" />
+      <workItem from="1629453780970" duration="10606000" />
+      <workItem from="1629471003404" duration="807000" />
+      <workItem from="1629553631260" duration="2613000" />
+      <workItem from="1629560046054" duration="667000" />
+      <workItem from="1630307242342" duration="325000" />
+      <workItem from="1644374009917" duration="5871000" />
+      <workItem from="1644407364590" duration="183000" />
+      <workItem from="1644407854583" duration="623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
