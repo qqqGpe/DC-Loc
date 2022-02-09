@@ -39,8 +39,8 @@ target_link_libraries(utils
         toronot_lib
         )
 
-add_executable(closure_match DCRML.cpp)
-target_link_libraries(closure_match
+add_executable(DCRML DCRML.cpp)
+target_link_libraries(DCRML
         ${OpenCV_LIBRARIES}
         ${Sophus_LIBRARIES}
         ${CERES_LIBRARIES}
