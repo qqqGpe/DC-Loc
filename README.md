@@ -18,3 +18,12 @@ Note: this code has been build and tested on Ubuntu 18.04, but it should compile
 python search_for_loopclosure.py PATH_TO_NUSCENES
 python list_seq.py
 ```
+2. metric localization process
+```
+cd ~/DCRML
+mkdir build
+cd ./build
+cmake ../DCRML
+make
+./DCRML
+```
