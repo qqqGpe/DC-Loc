@@ -9,9 +9,6 @@
 #include "utility.h"
 #include "localization.h"
 
-// Run TEASER++ registration
-// Prepare solver parameters
-/// left multiplication on SE3
 
 int main(int argc, char** argv){
     string preprocessDataDir = "../processed_data/";
