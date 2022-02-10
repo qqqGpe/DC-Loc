@@ -8,11 +8,11 @@
   year={2021}
 }
 ```
-## Metric localization performance
+## Metric localization performance :tomato:
 ![demo](demo.gif)
 
 
-## Build instructions :boat:
+# Build instructions :boat:
 Dependencies:
 ```
 Eigen 3.3
@@ -25,7 +25,7 @@ Note: this code has been build and tested on Ubuntu 18.04, but it should compile
 ## Dataset 📥
 You may need to download nuScenes dataset (radar) from [nutonomy/nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit).
 
-## Examples
+## Examples :taxi:
 
 1. preprocess [Nuscenes dataset](https://www.nuscenes.org/) to get loop closure cases and compensate for doppler effect in each radar submap.
 ```
