@@ -8,7 +8,7 @@
   year={2021}
 }
 ```
-## Metric localization performance :tomato:
+## Metric localization performance :octocat:
 ![demo](demo.gif)
 
 
@@ -42,5 +42,5 @@ make
 ./DCRML
 ```
 
-# video demo
-📺 [Youtube demo](https://www.youtube.com/watch?v=DUsr0B203ZQ)
+# video demo 📺
+ [Youtube demo](https://www.youtube.com/watch?v=DUsr0B203ZQ)
