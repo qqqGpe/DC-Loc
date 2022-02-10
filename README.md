@@ -28,12 +28,13 @@ You may need to download nuScenes dataset (radar) from [nutonomy/nuscenes-devkit
 ## Examples :taxi:
 
 1. preprocess [Nuscenes dataset](https://www.nuscenes.org/) to get loop closure cases and compensate for doppler effect in each radar submap.
-```
+```bash
+cd preprocess
 python search_for_loopclosure.py PATH_TO_NUSCENES
 python list_seq.py
 ```
 2. metric localization process
-```
+```bash
 cd ~/DCRML
 mkdir build
 cd ./build
