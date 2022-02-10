@@ -8,11 +8,11 @@
   year={2021}
 }
 ```
-# Metric localization performance
+## Metric localization performance
 ![demo](demo.gif)
 
 
-# Build instructions
+## Build instructions :boat:
 Dependencies:
 ```
 Eigen 3.3
