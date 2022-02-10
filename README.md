@@ -1,5 +1,6 @@
 # DCRML (Doppler compensated Radar Metric Localization)
 Source code for [Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation](https://arxiv.org/abs/2112.14887)
+![demo](demo.gif)
 ```
 @article{gao2021accurate,
   title={Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation},
