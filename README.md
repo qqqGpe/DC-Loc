@@ -4,8 +4,9 @@
 @article{gao2021accurate,
   title={Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation},
   author={Gao, Pengen and Zhang, Shengkai and Wang, Wei and Lu, Chris Xiaoxuan},
-  journal={arXiv preprint arXiv:2112.14887},
-  year={2021}
+  booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2022},
+  organization={IEEE}  
 }
 ```
 ## :octocat: Metric localization performance 
