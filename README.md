@@ -8,11 +8,11 @@
   year={2021}
 }
 ```
-## Metric localization performance :octocat:
+## :octocat: Metric localization performance 
 ![demo](demo.gif)
 
 
-# Build instructions :boat:
+# :boat: Build instructions 
 Dependencies:
 ```
 Eigen 3.3
@@ -22,10 +22,10 @@ Sophus 1.0
 ```
 Note: this code has been build and tested on Ubuntu 18.04, but it should compile for newer versions of Ubuntu.
 
-## Dataset 📥
+##📥 Dataset 
 You may need to download nuScenes dataset (radar) from [nutonomy/nuscenes-devkit](https://github.com/nutonomy/nuscenes-devkit).
 
-## Examples :taxi:
+##:taxi: Examples 
 
 1. preprocess [Nuscenes dataset](https://www.nuscenes.org/) to get loop closure cases and compensate for doppler effect in each radar submap.
 ```bash
@@ -43,5 +43,5 @@ make
 ./DCRML
 ```
 
-# video demo 📺
+#📺 video demo 
  [Youtube demo](https://www.youtube.com/watch?v=DUsr0B203ZQ)
