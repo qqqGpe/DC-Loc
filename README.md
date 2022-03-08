@@ -1,4 +1,4 @@
-# DCRML (Doppler compensated Radar Metric Localization)
+# DC-Loc (Doppler compensated Radar Metric Localization)
  This repo is an implementation for [Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation](https://arxiv.org/abs/2112.14887), which will be presented in ICRA'2022 !
 ```
 @article{gao2021accurate,
