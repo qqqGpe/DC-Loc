@@ -45,4 +45,4 @@ make
 ```
 
 # 📺 video demo 
- [Youtube demo](https://www.youtube.com/watch?v=DUsr0B203ZQ)
+ [Youtube demo](https://www.youtube.com/watch?v=FHUWfai00HM&ab_channel=PengenGao)
