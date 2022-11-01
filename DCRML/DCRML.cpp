@@ -5,7 +5,7 @@
 #include <string>
 #include <eigen3/Eigen/Core>
 
-#include "teaser/registration.h"
+//#include "teaser/registration.h"
 #include "utility.h"
 #include "localization.h"
 
